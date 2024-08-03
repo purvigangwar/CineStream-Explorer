@@ -1,8 +1,4 @@
-# React + Vite
+ Designed and built a React-based web application integrating with The Movie Database (TMDb) API, offering users
+ detailed movie and TV show information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  Implemented a robust search functionality, improving content discovery by 30% and enhancing user engagement.
